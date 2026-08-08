@@ -24,3 +24,7 @@ A polished dark theme for [SearXNG](https://github.com/searxng/searxng) — priv
 - Floating pill category tabs
 - Hidden clutter (footer, duplicate infoboxes, thumbnails in text results)
 - Smooth hover animations
+
+## Credits
+
+Built with AI assistance.
