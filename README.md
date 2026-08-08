@@ -1,6 +1,6 @@
 # SearXNG Dark Theme
 
-A polished dark theme for [SearXNG](https://github.com/searxng/searxng) — privacy-respecting metasearch engine.
+A polished dark theme for [SearXNG](https://github.com/searxng/searxng) — privacy-respecting metasearch engine. (Built with AI assistance.)
 
 ## Requirements
 
@@ -28,3 +28,7 @@ A polished dark theme for [SearXNG](https://github.com/searxng/searxng) — priv
 ## Credits
 
 Built with AI assistance.
+
+## License
+
+MIT
